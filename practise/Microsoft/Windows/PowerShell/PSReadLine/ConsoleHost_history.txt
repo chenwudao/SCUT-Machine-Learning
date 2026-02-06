@@ -1,1 +1,0 @@
- & 'c:\Users\陈俊西\.vscode\extensions\ms-vscode.cpptools-1.26.3-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-wyflrndc.qsv' '--stdout=Microsoft-MIEngine-Out-jrcjgvxp.ftj' '--stderr=Microsoft-MIEngine-Error-blwq5mjv.upo' '--pid=Microsoft-MIEngine-Pid-5rmgghmn.vtg' '--dbgExe=C:\msys64\ucrt64\bin\gdb.exe' '--interpreter=mi' 
